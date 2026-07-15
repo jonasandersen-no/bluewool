@@ -1,0 +1,13 @@
+name = "Portable Spawners"
+filename = "portablespawner-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b465fd4ed5ad0d70fb53eca77647822af0ee787"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6160027
+project-id = 1083672

@@ -1,0 +1,12 @@
+name = "Bluewool"
+author = "NotBjoggisAtAll"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3312c009648f312475e8327deb720ee1c1ec44f5ac45463cb8f9746cf6987752"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"

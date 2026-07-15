@@ -1,0 +1,13 @@
+name = "Ferdinand's Flowers"
+filename = "Ferdinand's Flowers 4.0 - 1.21.1 - neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6af068362d9c3d65c9c85f4dfebdb677128413f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6831778
+project-id = 282077
