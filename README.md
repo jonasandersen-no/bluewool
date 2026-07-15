@@ -10,7 +10,7 @@ A custom Minecraft modpack managed using [packwiz](https://packwiz.infra.link/).
 To manage or build this modpack, you need to have Go installed. Run the following command to install the packwiz CLI:
 
 ```shell
-go install [github.com/packwiz/packwiz@latest](https://github.com/packwiz/packwiz@latest)
+go install github.com/packwiz/packwiz@latest
 
 ```
 
