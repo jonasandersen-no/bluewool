@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "fcadcc088675cf866ea08c4c1bbd11adccb21b1e0fe9715c37ff7f88d9a96716"
+hash = "f1518b9325a7fa419cfb856774ab3065e12b3d6c467ae566a8e07d7cb9929857"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
+hash = "9163b1128300a4a9e8a021276fb16544d7e0e7e85f776dc3f59c1a54ec22e598"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2adc7a51ce009ed3e7c1e0d22fd71ad2c152796d8e0ab6cda1447bf89d6404bb"
+hash = "8cb7d0a8dcf8c5b587d06a982b80fb63807bc46aac55bbb1b22b9bd6a6289d81"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "da2695e249cd30861e78ad909d5fd769b6f931862049f17165f41fc18f43129c"
+hash = "b8ff01729e29868e7b48d6829d14136f300e176365a91fbd517e3d6d8155320f"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "3fb26a31eeec8302173f24461f46bc607533daba28e9918d8770a9ad30f7247a"
+hash = "afe654d54e9282631eb653195b4d6a92a4a1a9892c1c6145b76d0b85e31f93d5"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "6795bcda973a097a9f4473feef768d66a3fc95d5bc4b175a40024e6834019123"
+hash = "8f2cf635798b2de5a2e371f0bf476a7c74b662ec8fd292b60f4c2e7cedd4f6f1"
 metafile = true
 
 [[files]]
@@ -442,27 +442,27 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "886f3986d03ace73f8dd524ac70f708dd24e197d3828d45ad39d2e28fee366d2"
+hash = "f56e0c23ba34fcbb889c396b99f31a5f33365e00202b7728846e449825d58e03"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "b687b66bb554e428d6a975f3994f6a0d4436b0f7493d827d55f56600adc162ff"
+hash = "1e030f20b0d122743ef795917a8cad2e1c550228372db5e4a70a81d88405e38c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "03243ab5e329a9050831f5f57bf281a09b38849528d2024ed82f0c6b6e28735d"
+hash = "98ca9034a0cf86a04f68bf15730bcfcc349b1ac661874a3358b7ed2952bd73aa"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-create-integration.pw.toml"
-hash = "8c53d875a152e45cb105efcbb0e1ea4cebd31815b4030fea26fb4c38fcaf2457"
+hash = "0e6f2d5731502855c252c7accab0794db273a7c9d0ecbbeeebed830fb5f0cb0d"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "fa295247bba91122b891f9a8639689804ffe78bf5f3253daca78d1549ff59408"
+hash = "1692d298e28e31cd6a7259a304b1a97f51c1a7d9143fee4da92fabaffdf57fb7"
 metafile = true
 
 [[files]]
@@ -502,17 +502,17 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "e1bf5ce03e68844336f2872a9d203e9230dad089c2a32f43a7e9ebafc7464221"
+hash = "a8b98750a51ba1ef7cd98be2d4fc053bfd93af8df1410708a3219b1aeab71ac0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b0663f4f25d3f0b2da1ae82c1e9eff84fbde4752df0798dfb3a33e06a83169ed"
+hash = "b1e493739237b42f5126b35f801d1cd550edfffd1c5a42c8e3e36bc1ad443f52"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f5ba0beb9581df9ceca1fa28727bf4c90b526852478696c7646d9d9495266efd"
+hash = "d7741a98f8178b9c32f62b0eb334cac2961ae95bfe5fdcec060918bbc9b0311c"
 metafile = true
 
 [[files]]
