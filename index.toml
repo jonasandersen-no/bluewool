@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "335d3e0f28b42381f929c9997dd188cd656178904833c2d1b01dfd3e098b0569"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
