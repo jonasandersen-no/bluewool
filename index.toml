@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "96eab3328337034b9503173a460c1ce11ce1666b9094dcdc05990976985f72c5"
+hash = "05abf6fafe4a8adf5aaa24f09b7dedfbe199a8727d925e816fc608d6357f5ba8"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e1a361f78b1e9d96435cd3b612064f227c50ef1a89f96927380beda6b37b0ef3"
+hash = "60744684868ba43cf41588d45412a78b95f64b2ec553b5ed627330e322952697"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlinlangforge.pw.toml"
-hash = "be000de8fb357ffcc1ae23356164dddacdd37b566f3a62b5cd1060d4a2631498"
+hash = "08ea922121c4a3a48d8ea4940254842af9a7271ef0db07366d77f49a59c490b4"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "afe654d54e9282631eb653195b4d6a92a4a1a9892c1c6145b76d0b85e31f93d5"
+hash = "ebbebb2fe3f42ea69f1d38df884678b762b332177c047676cfa9a0d419e88869"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "8f2cf635798b2de5a2e371f0bf476a7c74b662ec8fd292b60f4c2e7cedd4f6f1"
+hash = "1e7d0d1690d99ce6a6366f45d15278d45068b99c8bc922a3604dd28d3a3d80b8"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "ea7c72bb146541a5c244b34eac66e74fd05c51a8286d283a2308874517f587df"
+hash = "839e60d3150e7caa7ebe2ab0cadd37ba31b8d8dcc687fc8fc888a76faba5dd00"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "f2f36c9b9ac6fbde3485e0c8f30bf2f5aab234db05894dbf6c9a2858d708c567"
+hash = "65c820470d4b0cbe7442a4af9e01ad4b7a9af4a6858c661c3acb8e283a19f748"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "2cdd809f9697c72da8337f719ca96e907fc764b4cc6b194807ac83e586d8f260"
+hash = "bb009449cdf30c6113bed3bdd860978e4b13a69ed82a312187e019c15417dd50"
 metafile = true
 
 [[files]]
