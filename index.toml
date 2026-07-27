@@ -6,6 +6,10 @@ hash = "335d3e0f28b42381f929c9997dd188cd656178904833c2d1b01dfd3e098b0569"
 metafile = true
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "cdb728fa3f6669ed7bbee5b833264807f54b195869f8229c417c43fb87ac4298"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
@@ -141,11 +145,6 @@ hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
 metafile = true
 
 [[files]]
-file = "mods/dynamiclights-reforged.pw.toml"
-hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "65b3488ff2104f458ab5fa16a7a274157f5d012d7013a9c24437ae9ca6c11d55"
 metafile = true
@@ -167,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "a2aa051ec45ec685f523fbf3813f23c5fde1935d7193e248871f1427ca1dd558"
+hash = "4c996e783683f1a51df88d6af6b57881ff095c8801b0f5ab2969d0d121c137f8"
 metafile = true
 
 [[files]]
@@ -196,13 +195,8 @@ hash = "209f8fe12348deab7420620e975872bcbe1ec4769f0964f72f8827a75a9ff031"
 metafile = true
 
 [[files]]
-file = "mods/immersive-lanterns.pw.toml"
-hash = "932c985b60d1ad9defb6544fb5aa7b3490be7b6497dc7537b640d2ee060275fa"
-metafile = true
-
-[[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
 metafile = true
 
 [[files]]
@@ -222,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "679daef751fe49e6b71d376869696ca98782f0c855a17968ce7b758a1920ab5a"
+hash = "7576f3bfdf784ccb4cf4df83a034d9c50870d00567225367ace536f2943d6fcb"
 metafile = true
 
 [[files]]
@@ -332,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "3055e48da7e4feda5ca0a513012f40b5769060a6208f81a63a7c287baa291541"
+hash = "302942a97d335b84e9e7ce889f1695262bf0813702de62ec18174690222667f4"
 metafile = true
 
 [[files]]
@@ -401,11 +395,6 @@ hash = "719c1b11d3c9f3204f85a36815b298e84aad29c2e98ec77eb0a07d1ba2783eff"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
-metafile = true
-
-[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "b8343a89b5bca7976f6aac6a977b22d477230f486b2a65dcde64649ae828da8c"
 metafile = true
@@ -441,13 +430,8 @@ hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "c9291e44e1fd34eddbc1a2a9d69a90cb6c29d214abe4d3f282d9eaed62fa3416"
 metafile = true
 
 [[files]]
