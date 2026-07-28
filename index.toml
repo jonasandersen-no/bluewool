@@ -6,8 +6,24 @@ hash = "335d3e0f28b42381f929c9997dd188cd656178904833c2d1b01dfd3e098b0569"
 metafile = true
 
 [[files]]
+file = "config/ae2-common.toml"
+hash = "d5bb325da6d3dbaf0015cf02fbd2d708c22fe761232d2b9bb2112e1f187458d2"
+
+[[files]]
+file = "config/minecolonies-server.toml"
+hash = "c9cd8d29c557960fca3ab440ae0079ac02bfde67aee197ab6ddc0490ea35528e"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "cdb728fa3f6669ed7bbee5b833264807f54b195869f8229c417c43fb87ac4298"
+
+[[files]]
+file = "config/structurize-server.toml"
+hash = "0d2681e3f3d94d23170513cb481a4ed48ca65354ac9bb220dbdc1eb91b71a69e"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "8fd5964eb2596331e43d184f7a5611a7c5b780957b2e5223518fc150d12b5b9d"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -150,6 +166,16 @@ hash = "65b3488ff2104f458ab5fa16a7a274157f5d012d7013a9c24437ae9ca6c11d55"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "346f28e2ec19543a6b410bf2cf5389401bc6d1aa0189e39d07bf11d64d8bd321"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "e206e53e79c196615bebfc9f5dfa943c11c1361e1c7dc4f8f952c86b95e0f0ca"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
 metafile = true
@@ -162,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/ferdinands-flowers.pw.toml"
 hash = "bc9677e8f077b754ef1ff2ef0ca5a92e0cf28978aded88a8f87087b60ae46fe9"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
@@ -216,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7576f3bfdf784ccb4cf4df83a034d9c50870d00567225367ace536f2943d6fcb"
+hash = "40620796ba85eae795a919c026d62cba58eb6987105a9b36ccffa6066cc503b4"
 metafile = true
 
 [[files]]
@@ -327,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "302942a97d335b84e9e7ce889f1695262bf0813702de62ec18174690222667f4"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b0364f6b95f6ed837239c232bad0e2d7317e58f0e4c040e66a4f533239d5775e"
 metafile = true
 
 [[files]]
