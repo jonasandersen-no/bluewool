@@ -15,4 +15,7 @@ set file_name "Bluewool 1.21.1-$bluewool_version.zip"
 
 mv Bluewool.zip $file_name
 
+ln -sf $file_name Bluewool.zip
+
 echo "Renamed file to $file_name"
+echo "Updated Bluewool.zip symlink to point to $file_name"
