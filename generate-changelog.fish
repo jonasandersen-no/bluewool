@@ -17,6 +17,12 @@ end
 echo "Updated mods in $target_commit compared to $base_commit:"
 echo
 
+set added_mods
+set updated_mods
+set removed_mods
+set renamed_mods
+set changed_mods
+
 git diff --name-status $base_commit $target_commit -- '*.pw.toml' | while read -l line
     set parts (string split \t -- $line)
 
@@ -58,5 +64,61 @@ git diff --name-status $base_commit $target_commit -- '*.pw.toml' | while read -
         set name $path
     end
 
-    echo "- $label: $name"
+    switch $label
+        case Added
+            set --append added_mods "$name"
+        case Updated
+            set --append updated_mods "$name"
+        case Removed
+            set --append removed_mods "$name"
+        case Renamed
+            set --append renamed_mods "$name"
+        case Changed
+            set --append changed_mods "$name"
+    end
+end
+
+if test (count $added_mods) -gt 0
+    echo "Added:"
+    echo
+    for name in $added_mods
+        echo "* $name"
+    end
+    echo
+end
+
+if test (count $updated_mods) -gt 0
+    echo "Updated:"
+    echo
+    for name in $updated_mods
+        echo "* $name"
+    end
+    echo
+end
+
+if test (count $removed_mods) -gt 0
+    echo "Removed:"
+    echo
+    for name in $removed_mods
+        echo "* $name"
+    end
+    echo
+end
+
+if test (count $renamed_mods) -gt 0
+    echo "Renamed:"
+    echo
+    for name in $renamed_mods
+        echo "* $name"
+    end
+    echo
+end
+
+if test (count $changed_mods) -gt 0
+    echo "Changed:"
+    echo
+    for name in $changed_mods
+        echo "* $name"
+    end
+    echo
 end
