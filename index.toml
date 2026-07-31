@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f1518b9325a7fa419cfb856774ab3065e12b3d6c467ae566a8e07d7cb9929857"
+hash = "381f38bf917d9b1030ba3b28b7abfb55fe1ecc17cb93ef34f83b4246bb17c9a5"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
-hash = "f6bcf591a91c87fe02187642c7311ce08ed9d0d997be0fb5befc41b7fb61b868"
+hash = "47969f506605f1f9bac48eec7e6e79c89093d8fd21aaebe96d2c25bb323f692b"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "40620796ba85eae795a919c026d62cba58eb6987105a9b36ccffa6066cc503b4"
+hash = "d603b1fbfdbc5ec69848e5d3fde577259dedeb0f4fa8ca3261c24b4a31605639"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "302942a97d335b84e9e7ce889f1695262bf0813702de62ec18174690222667f4"
+hash = "c82b3c70f9729b4d22be87d3c884901be88edc01326c72b20655f49c861d17b9"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "cdd6792d04eef2981de616a24f1d89648749c3c7494396f2119cd6ec7ce1e242"
+hash = "8dcf8ac4e854f19bfae60c57bda9030b449760b2be5970655db3d50a9f8fa1e0"
 metafile = true
 
 [[files]]
