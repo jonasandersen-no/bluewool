@@ -23,7 +23,7 @@ hash = "0d2681e3f3d94d23170513cb481a4ed48ca65354ac9bb220dbdc1eb91b71a69e"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "8fd5964eb2596331e43d184f7a5611a7c5b780957b2e5223518fc150d12b5b9d"
+hash = "8d82ac6d5d42e011f2d58cec99511c3c4a938c2607fcf94b480ae48b8dca0bf7"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "4c996e783683f1a51df88d6af6b57881ff095c8801b0f5ab2969d0d121c137f8"
+hash = "276e79d919c3a698ab2881d784544b7e60bef69b43f44808353bb65d38633cb3"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
+hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d603b1fbfdbc5ec69848e5d3fde577259dedeb0f4fa8ca3261c24b4a31605639"
+hash = "4002253b9c10dad252ac7c3b4234b47a8f9b2f73cda4bbc8b377ac6c039a4a61"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "b8ff01729e29868e7b48d6829d14136f300e176365a91fbd517e3d6d8155320f"
+hash = "0a82d90319b9ba9b5c9fa586a6fca0e2510c2617a9710e6aa738426c1ee87c1e"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "c82b3c70f9729b4d22be87d3c884901be88edc01326c72b20655f49c861d17b9"
+hash = "909c329fd7b50809315f8d2d03bdfb980a201e245f44421b2b51cf2e1a38e70b"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
+hash = "30172206e910599e13e40746a425338f0aa010b8f5f12ecdbb8ee32d08c61f31"
 metafile = true
 
 [[files]]
@@ -477,12 +477,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "95b646021343034307aa64ccbdffa247aab6642fb5888bec7eba5b93aa071d7c"
+hash = "d8ee28d1255a77099af055c9ebde539288d1a2f2c15e5694c86dbce1b5b2f128"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9691e0caa6ebd2d045e862e792aa762b2eb159c359d9c446241d32f731a7e5bb"
+hash = "ca713ccc58bf451846ab33896b00f493a52c73d345298b7cbb8f684a785616c8"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "c700f42611b1e4412c3528b976100e48d7fb992f84f39de37b8db3aa2bb444ce"
+hash = "59830525c2c621c90f85a4029d6704515605910e0740e6567fd8ffbc483d1028"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "8dcf8ac4e854f19bfae60c57bda9030b449760b2be5970655db3d50a9f8fa1e0"
+hash = "6d60c47501f6dc6a081efde506f1998cb4c80f5ca670e404e7ede0e93a4a5c60"
 metafile = true
 
 [[files]]

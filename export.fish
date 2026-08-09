@@ -3,7 +3,8 @@
 # Go to the directory this script is in
 cd (dirname (status --current-filename))
 
-# Run packwiz
+
+rm Bluewool.zip
 
 packwiz curseforge export
 

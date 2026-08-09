@@ -12,6 +12,8 @@
 	warpPlateUseTime = 15
 	#The time in ticks it takes to use a scroll. This is the charge-up time when holding right-click.
 	scrollUseTime = 32
+	#The time in ticks that an entity has to be off of a target warp plate before it can teleport from that same warp plate again.
+	warpPlateCooldownTime = 20
 
 [inventoryButton]
 	#Set to 'NONE' for no inventory button. Set to 'NEAREST' for an inventory button that teleports to the nearest waystone. Set to 'ANY' for an inventory button that opens the waystone selection menu. Set to a waystone name for an inventory button that teleports to a specifically named waystone.
