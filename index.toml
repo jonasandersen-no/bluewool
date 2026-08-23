@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "9c89126af3d8cb8dd94ea18a76bc41b79e79a3c8fd9cb5fbbaea7b4bf919d7cd"
+hash = "a35c812005762698c71c87d55c26745ea4dd244c1ef5f2df19f0a78ae04c575d"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "6ad424af2b8614fe9547f622a5b3d84d003eeffc6284a517aea90e377958a17a"
+hash = "9942062b933fc042f551ff9539c81ca37ef8e97eec7d35f7800805a9d285b956"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "65b3488ff2104f458ab5fa16a7a274157f5d012d7013a9c24437ae9ca6c11d55"
+hash = "f9e6dd1d85322833d9d3440446e569340ef52e23a5ce2149ddedec1c49b24efc"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "0a82d90319b9ba9b5c9fa586a6fca0e2510c2617a9710e6aa738426c1ee87c1e"
+hash = "9897d053032dcfb345567234dd6fb57debb7a52dbe08c06c9bbaef12cdf2e0f2"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "b7abb62c789ff8460034f6b01a9e5c0fd9348af40ee3f0da5aa8c6b1ca4a0305"
+hash = "bed0b56a88b7c436dd3212037276986c9cdf16ab03a6096f5263149514be70d4"
 metafile = true
 
 [[files]]
@@ -487,12 +487,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "41343a364eeff7106d903f2bb658b91ae8b0ce216ddba103e1be5edb1a27649f"
+hash = "36f88cb2feecf33ec2933b3fc9e77fac2fbf3b04acde286ee17619afd8d8ad5d"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9ee0490b06b36ba9bff93af9f75493f3dd4e71a1ab8ce4ee778ee5fdb11eb49c"
+hash = "ef9a468055d108fb54f2834c041107fe478ce8448e495456414d3819a5cde794"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "b523ab242b94170321935199b1e0a406df1982af891423b970acd10687c9103a"
+hash = "1e4dd7bcdaa5fa5c66ebb3d10ed34992c8009294b048eaaa310377f10e1a733d"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/stylecolonies.pw.toml"
-hash = "73b6fa80149ad32f6f3e0801bcbac21a117b09b1d1b021f34a8e07a537c09547"
+hash = "523ff1937e84924d2e16e7123213c5a9f75ae4ca11b74339f02669b6f642f419"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "210cce3a74344d8ccbe0023ea0399b5573c5e622ae970d0cf81b753b18f1fc3f"
+hash = "2ba7eb6ca5c2c9886cfb1bb23ed56fbbcaac3d4d3b1b185dc550ed61b66ecce1"
 metafile = true
 
 [[files]]
